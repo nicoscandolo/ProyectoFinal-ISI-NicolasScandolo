@@ -13,6 +13,7 @@ import { RespuestaConsultaComponent } from './Components/respuesta-consulta/resp
 import { NavbarComponent } from './Components/navbar-component/navbar.component';
 import { LogInComponent } from './Components/log-in/log-in.component';
 import { FooterComponent } from './Components/footer/footer.component';
+import { ModalLoginComponent } from './Components/modal-login/modal-login.component';
 
 
 @NgModule({
@@ -26,7 +27,8 @@ import { FooterComponent } from './Components/footer/footer.component';
     RespuestaConsultaComponent,
     NavbarComponent,
     LogInComponent,
-    FooterComponent
+    FooterComponent,
+    ModalLoginComponent
   ],
   imports: [
     BrowserModule,

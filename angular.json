@@ -25,57 +25,14 @@
             "styles": [
               "src/styles.css",
               "./node_modules/bootstrap/dist/css/bootstrap.min.css",
-              "src/assets/bootstrap-3.3.7/bootstrap-3.3.7-dist/css/bootstrap.min.css",
-              "src/assets/css/main.css",
-
-              "src/assets/js/plugins/bootsnav_files/skins/color.css",
-
-            "src/assets/js/plugins/bootsnav_files/css/animate.css",
-
-             "src/assets/js/plugins/bootsnav_files/css/bootsnav.css",
-
-             "src/assets/js/plugins/bootsnav_files/css/overwrite.css",
-
-             "src/assets/js/plugins/owl-carousel/owl.carousel.css",
-
-             "src/assets/js/plugins/owl-carousel/owl.theme.css",
-
-             "src/assets/js/plugins/owl-carousel/owl.transitions.css",
-
-             "src/assets/js/plugins/Magnific-Popup-master/Magnific-Popup-master/dist/magnific-popup.css"
-
-
-            ],
+              "./node_modules/bootstrap/dist/css/bootstrap.css"
+                        ],
             "scripts": [
+              "node_modules/jquery/dist/jquery.min.js",
               "./node_modules/jquery/dist/jquery.slim.min.js",
               "./node_modules/popper.js/dist/umd/popper.min.js",
               "./node_modules/bootstrap/dist/js/bootstrap.min.js",
-
-
-
-               "https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js",
-
-               "src/assets/bootstrap-3.3.7/bootstrap-3.3.7-dist/js/bootstrap.min.js",
-
-               "src/assets/js/plugins/owl-carousel/owl.carousel.min.js",
-
-               "src/assets/js/plugins/bootsnav_files/js/bootsnav.js",
-
-               "src/assets/js/plugins/typed.js-master/typed.js-master/dist/typed.min.js",
-
-               "https://maps.googleapis.com/maps/api/js",
-
-               "src/assets/js/plugins/Magnific-Popup-master/Magnific-Popup-master/dist/jquery.magnific-popup.js",
-
-               "src/assets/js/plugins/particles.js-master/particles.js-master/particles.min.js",
-
-               "src/assets/js/particales-script.js",
-
-               "src/assets/js/main.js"
-
-
-
-
+              "./node_modules/bootstrap/dist/js/bootstrap.js"
             ],
             "es5BrowserSupport": true
           },

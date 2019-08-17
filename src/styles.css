@@ -1,0 +1,10 @@
+/* body{
+
+  background: #ff0c0c !important;
+} */
+
+
+body {
+  background-image: url("../../../../Desktop/PROYECTO-FINAL/ProyectoFinal-ISI-NicolasScandolo/src/assets/img/banner.jpg");
+background-position: center;
+}
