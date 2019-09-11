@@ -2,10 +2,12 @@
 html {
   min-height: 100%;
   position: relative;
+  bottom: 0px;
+
 }
 body {
   margin: 0;
-  margin-bottom: 40px;
+  margin-bottom: 0px;
 }
 
 body { color: #ccc }
@@ -90,6 +92,7 @@ p {
 
 .dk-footer {
   padding: 0px 0 0;
+  position: fixed;
 
  /*  background-color: #151414; */
  background-color: #202020;

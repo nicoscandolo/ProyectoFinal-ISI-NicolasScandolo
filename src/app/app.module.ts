@@ -14,6 +14,7 @@ import { NavbarComponent } from './Components/navbar-component/navbar.component'
 import { LogInComponent } from './Components/log-in/log-in.component';
 import { FooterComponent } from './Components/footer/footer.component';
 import { ModalLoginComponent } from './Components/modal-login/modal-login.component';
+import { ProyectosComponent } from './proyectos/proyectos.component';
 
 
 @NgModule({
@@ -28,7 +29,8 @@ import { ModalLoginComponent } from './Components/modal-login/modal-login.compon
     NavbarComponent,
     LogInComponent,
     FooterComponent,
-    ModalLoginComponent
+    ModalLoginComponent,
+    ProyectosComponent
   ],
   imports: [
     BrowserModule,
